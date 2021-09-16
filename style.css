@@ -1,0 +1,7 @@
+body {background-color: aqua;}
+
+header, main, footer {
+    background-color: aquamarine;
+    min-height: 100px;
+    margin: 10px;
+}
